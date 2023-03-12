@@ -1,0 +1,205 @@
+sw_volume: 70
+audio_device_state:1:my_fifo
+state: stop
+current: 0
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:02 Suicides and Lazy Eyes.wav
+1:Bitter Choco Decoration ♡ English Cover【rachie】 ビターチョコデコレーション [6G7ilxWNG9o].wav
+2:01 Broke Open Love.wav
+3:02 Suicides and Lazy Eyes.wav
+4:06 Possession.wav
+5:Aishite Aishite Aishite -Rock Arrange- (English Cover) 「愛して愛して愛して」【Will Stetson x ReeK】 [T0kpGEE-isU].wav
+6:Animal - DECO＊27 ft. Hatsune Miku ｜ ENGLISH Cover 【rocchi】 [FgWBQOxVSiQ].wav
+7:Anthropophobia (English Cover) 【JubyPhonic】 アンスロポフォビア [vjmrPgUQaeU].wav
+8:Aurora [7pOFG7lw1r0].wav
+9:Aurora [7pOFG7lw1r0].wav
+10:Bitter Choco Decoration ♡ English Cover【rachie】 ビターチョコデコレーション [6G7ilxWNG9o].wav
+11:Blue Moon - Derivakat ft. vGumiho [OFFICIAL M⧸V] [R_Eu1pRH7_0].wav
+12:Bug (English Cover)「バグ⧸ Project Sekai」【Will Stetson】 [ZRSJRvyxQxU].wav
+13:Deal With The Devil (feat. Tony Halliwell) [AXWIz5Vdv3M].wav
+14:DECO＊27 - 毒林檎 feat. 初音ミク [nUzjJ1mNRRQ].wav
+15:drop pop candy (English Cover) 【Kuraiinu + JubyPhonic】 [UwdiUeH1RdA]-1.wav
+16:Falling for the Villain [SZyLR6ZowG0].wav
+17:Gryffin _ salem ilese - Glitch In The Simulation (Official Visualizer) [xESXMz8bTK0].wav
+18:Venom (English Cover)【JubyPhonic】ベノム [1JG93nbIL8Y].wav
+19:【English cover】(Not) A Devil (デビルじゃないもん) feat. SOLARIA _ Eleanor Forte [lo9X58RawQ8].wav
+20:01 Broke Open Love.wav
+21:02 Suicides and Lazy Eyes.wav
+22:06 Possession.wav
+23:Aishite Aishite Aishite -Rock Arrange- (English Cover) 「愛して愛して愛して」【Will Stetson x ReeK】 [T0kpGEE-isU].wav
+24:Animal - DECO＊27 ft. Hatsune Miku ｜ ENGLISH Cover 【rocchi】 [FgWBQOxVSiQ].wav
+25:Anthropophobia (English Cover) 【JubyPhonic】 アンスロポフォビア [vjmrPgUQaeU].wav
+26:Aurora [7pOFG7lw1r0].wav
+27:Aurora [7pOFG7lw1r0].wav
+28:Bitter Choco Decoration ♡ English Cover【rachie】 ビターチョコデコレーション [6G7ilxWNG9o].wav
+29:Blue Moon - Derivakat ft. vGumiho [OFFICIAL M⧸V] [R_Eu1pRH7_0].wav
+30:Bug (English Cover)「バグ⧸ Project Sekai」【Will Stetson】 [ZRSJRvyxQxU].wav
+31:Deal With The Devil (feat. Tony Halliwell) [AXWIz5Vdv3M].wav
+32:DECO＊27 - 毒林檎 feat. 初音ミク [nUzjJ1mNRRQ].wav
+33:drop pop candy (English Cover) 【Kuraiinu + JubyPhonic】 [UwdiUeH1RdA]-1.wav
+34:Falling for the Villain [SZyLR6ZowG0].wav
+35:Gryffin _ salem ilese - Glitch In The Simulation (Official Visualizer) [xESXMz8bTK0].wav
+36:Venom (English Cover)【JubyPhonic】ベノム [1JG93nbIL8Y].wav
+37:【English cover】(Not) A Devil (デビルじゃないもん) feat. SOLARIA _ Eleanor Forte [lo9X58RawQ8].wav
+38:【English cover】(Not) A Devil (デビルじゃないもん) feat. SOLARIA _ Eleanor Forte [lo9X58RawQ8].wav
+39:01 Broke Open Love.wav
+40:02 Suicides and Lazy Eyes.wav
+41:06 Possession.wav
+42:Aishite Aishite Aishite -Rock Arrange- (English Cover) 「愛して愛して愛して」【Will Stetson x ReeK】 [T0kpGEE-isU].wav
+43:Animal - DECO＊27 ft. Hatsune Miku ｜ ENGLISH Cover 【rocchi】 [FgWBQOxVSiQ].wav
+44:Anthropophobia (English Cover) 【JubyPhonic】 アンスロポフォビア [vjmrPgUQaeU].wav
+45:Aurora [7pOFG7lw1r0].wav
+46:Aurora [7pOFG7lw1r0].wav
+47:Bitter Choco Decoration ♡ English Cover【rachie】 ビターチョコデコレーション [6G7ilxWNG9o].wav
+48:Blue Moon - Derivakat ft. vGumiho [OFFICIAL M⧸V] [R_Eu1pRH7_0].wav
+49:Bug (English Cover)「バグ⧸ Project Sekai」【Will Stetson】 [ZRSJRvyxQxU].wav
+50:Deal With The Devil (feat. Tony Halliwell) [AXWIz5Vdv3M].wav
+51:DECO＊27 - 毒林檎 feat. 初音ミク [nUzjJ1mNRRQ].wav
+52:drop pop candy (English Cover) 【Kuraiinu + JubyPhonic】 [UwdiUeH1RdA]-1.wav
+53:Falling for the Villain [SZyLR6ZowG0].wav
+54:Gryffin _ salem ilese - Glitch In The Simulation (Official Visualizer) [xESXMz8bTK0].wav
+55:Venom (English Cover)【JubyPhonic】ベノム [1JG93nbIL8Y].wav
+56:【English cover】(Not) A Devil (デビルじゃないもん) feat. SOLARIA _ Eleanor Forte [lo9X58RawQ8].wav
+57:【English cover】(Not) A Devil (デビルじゃないもん) feat. SOLARIA _ Eleanor Forte [lo9X58RawQ8].wav
+58:01 Broke Open Love.wav
+59:02 Suicides and Lazy Eyes.wav
+60:06 Possession.wav
+61:Aishite Aishite Aishite -Rock Arrange- (English Cover) 「愛して愛して愛して」【Will Stetson x ReeK】 [T0kpGEE-isU].wav
+62:Animal - DECO＊27 ft. Hatsune Miku ｜ ENGLISH Cover 【rocchi】 [FgWBQOxVSiQ].wav
+63:Anthropophobia (English Cover) 【JubyPhonic】 アンスロポフォビア [vjmrPgUQaeU].wav
+64:Aurora [7pOFG7lw1r0].wav
+65:Aurora [7pOFG7lw1r0].wav
+66:Bitter Choco Decoration ♡ English Cover【rachie】 ビターチョコデコレーション [6G7ilxWNG9o].wav
+67:Blue Moon - Derivakat ft. vGumiho [OFFICIAL M⧸V] [R_Eu1pRH7_0].wav
+68:Bug (English Cover)「バグ⧸ Project Sekai」【Will Stetson】 [ZRSJRvyxQxU].wav
+69:Deal With The Devil (feat. Tony Halliwell) [AXWIz5Vdv3M].wav
+70:DECO＊27 - 毒林檎 feat. 初音ミク [nUzjJ1mNRRQ].wav
+71:drop pop candy (English Cover) 【Kuraiinu + JubyPhonic】 [UwdiUeH1RdA]-1.wav
+72:Falling for the Villain [SZyLR6ZowG0].wav
+73:Gryffin _ salem ilese - Glitch In The Simulation (Official Visualizer) [xESXMz8bTK0].wav
+74:Venom (English Cover)【JubyPhonic】ベノム [1JG93nbIL8Y].wav
+75:【English cover】(Not) A Devil (デビルじゃないもん) feat. SOLARIA _ Eleanor Forte [lo9X58RawQ8].wav
+76:【English cover】(Not) A Devil (デビルじゃないもん) feat. SOLARIA _ Eleanor Forte [lo9X58RawQ8].wav
+77:01 Broke Open Love.wav
+78:02 Suicides and Lazy Eyes.wav
+79:06 Possession.wav
+80:Aishite Aishite Aishite -Rock Arrange- (English Cover) 「愛して愛して愛して」【Will Stetson x ReeK】 [T0kpGEE-isU].wav
+81:Animal - DECO＊27 ft. Hatsune Miku ｜ ENGLISH Cover 【rocchi】 [FgWBQOxVSiQ].wav
+82:Anthropophobia (English Cover) 【JubyPhonic】 アンスロポフォビア [vjmrPgUQaeU].wav
+83:Aurora [7pOFG7lw1r0].wav
+84:Aurora [7pOFG7lw1r0].wav
+85:Bitter Choco Decoration ♡ English Cover【rachie】 ビターチョコデコレーション [6G7ilxWNG9o].wav
+86:Blue Moon - Derivakat ft. vGumiho [OFFICIAL M⧸V] [R_Eu1pRH7_0].wav
+87:Bug (English Cover)「バグ⧸ Project Sekai」【Will Stetson】 [ZRSJRvyxQxU].wav
+88:Deal With The Devil (feat. Tony Halliwell) [AXWIz5Vdv3M].wav
+89:DECO＊27 - 毒林檎 feat. 初音ミク [nUzjJ1mNRRQ].wav
+90:drop pop candy (English Cover) 【Kuraiinu + JubyPhonic】 [UwdiUeH1RdA]-1.wav
+91:Falling for the Villain [SZyLR6ZowG0].wav
+92:Gryffin _ salem ilese - Glitch In The Simulation (Official Visualizer) [xESXMz8bTK0].wav
+93:Venom (English Cover)【JubyPhonic】ベノム [1JG93nbIL8Y].wav
+94:【English cover】(Not) A Devil (デビルじゃないもん) feat. SOLARIA _ Eleanor Forte [lo9X58RawQ8].wav
+95:【English cover】(Not) A Devil (デビルじゃないもん) feat. SOLARIA _ Eleanor Forte [lo9X58RawQ8].wav
+96:01 Broke Open Love.wav
+97:02 Suicides and Lazy Eyes.wav
+98:06 Possession.wav
+99:Aishite Aishite Aishite -Rock Arrange- (English Cover) 「愛して愛して愛して」【Will Stetson x ReeK】 [T0kpGEE-isU].wav
+100:Animal - DECO＊27 ft. Hatsune Miku ｜ ENGLISH Cover 【rocchi】 [FgWBQOxVSiQ].wav
+101:Anthropophobia (English Cover) 【JubyPhonic】 アンスロポフォビア [vjmrPgUQaeU].wav
+102:Aurora [7pOFG7lw1r0].wav
+103:Aurora [7pOFG7lw1r0].wav
+104:Bitter Choco Decoration ♡ English Cover【rachie】 ビターチョコデコレーション [6G7ilxWNG9o].wav
+105:Blue Moon - Derivakat ft. vGumiho [OFFICIAL M⧸V] [R_Eu1pRH7_0].wav
+106:Bug (English Cover)「バグ⧸ Project Sekai」【Will Stetson】 [ZRSJRvyxQxU].wav
+107:Deal With The Devil (feat. Tony Halliwell) [AXWIz5Vdv3M].wav
+108:DECO＊27 - 毒林檎 feat. 初音ミク [nUzjJ1mNRRQ].wav
+109:drop pop candy (English Cover) 【Kuraiinu + JubyPhonic】 [UwdiUeH1RdA]-1.wav
+110:Falling for the Villain [SZyLR6ZowG0].wav
+111:Gryffin _ salem ilese - Glitch In The Simulation (Official Visualizer) [xESXMz8bTK0].wav
+112:Venom (English Cover)【JubyPhonic】ベノム [1JG93nbIL8Y].wav
+113:【English cover】(Not) A Devil (デビルじゃないもん) feat. SOLARIA _ Eleanor Forte [lo9X58RawQ8].wav
+114:【English cover】(Not) A Devil (デビルじゃないもん) feat. SOLARIA _ Eleanor Forte [lo9X58RawQ8].wav
+115:01 Broke Open Love.wav
+116:02 Suicides and Lazy Eyes.wav
+117:06 Possession.wav
+118:Aishite Aishite Aishite -Rock Arrange- (English Cover) 「愛して愛して愛して」【Will Stetson x ReeK】 [T0kpGEE-isU].wav
+119:Animal - DECO＊27 ft. Hatsune Miku ｜ ENGLISH Cover 【rocchi】 [FgWBQOxVSiQ].wav
+120:Anthropophobia (English Cover) 【JubyPhonic】 アンスロポフォビア [vjmrPgUQaeU].wav
+121:Aurora [7pOFG7lw1r0].wav
+122:Aurora [7pOFG7lw1r0].wav
+123:Bitter Choco Decoration ♡ English Cover【rachie】 ビターチョコデコレーション [6G7ilxWNG9o].wav
+124:Blue Moon - Derivakat ft. vGumiho [OFFICIAL M⧸V] [R_Eu1pRH7_0].wav
+125:Bug (English Cover)「バグ⧸ Project Sekai」【Will Stetson】 [ZRSJRvyxQxU].wav
+126:Deal With The Devil (feat. Tony Halliwell) [AXWIz5Vdv3M].wav
+127:DECO＊27 - 毒林檎 feat. 初音ミク [nUzjJ1mNRRQ].wav
+128:drop pop candy (English Cover) 【Kuraiinu + JubyPhonic】 [UwdiUeH1RdA]-1.wav
+129:Falling for the Villain [SZyLR6ZowG0].wav
+130:Gryffin _ salem ilese - Glitch In The Simulation (Official Visualizer) [xESXMz8bTK0].wav
+131:Venom (English Cover)【JubyPhonic】ベノム [1JG93nbIL8Y].wav
+132:02 Suicides and Lazy Eyes.wav
+133:06 Possession.wav
+134:Aishite Aishite Aishite -Rock Arrange- (English Cover) 「愛して愛して愛して」【Will Stetson x ReeK】 [T0kpGEE-isU].wav
+135:Animal - DECO＊27 ft. Hatsune Miku ｜ ENGLISH Cover 【rocchi】 [FgWBQOxVSiQ].wav
+136:Anthropophobia (English Cover) 【JubyPhonic】 アンスロポフォビア [vjmrPgUQaeU].wav
+137:Aurora [7pOFG7lw1r0].wav
+138:Bitter Choco Decoration ♡ English Cover【rachie】 ビターチョコデコレーション [6G7ilxWNG9o].wav
+139:Blue Moon - Derivakat ft. vGumiho [OFFICIAL M⧸V] [R_Eu1pRH7_0].wav
+140:Bug (English Cover)「バグ⧸ Project Sekai」【Will Stetson】 [ZRSJRvyxQxU].wav
+141:Deal With The Devil (feat. Tony Halliwell) [AXWIz5Vdv3M].wav
+142:DECO＊27 - 毒林檎 feat. 初音ミク [nUzjJ1mNRRQ].wav
+143:drop pop candy (English Cover) 【Kuraiinu + JubyPhonic】 [UwdiUeH1RdA]-1.wav
+144:Falling for the Villain [SZyLR6ZowG0].wav
+145:Gryffin _ salem ilese - Glitch In The Simulation (Official Visualizer) [xESXMz8bTK0].wav
+146:Venom (English Cover)【JubyPhonic】ベノム [1JG93nbIL8Y].wav
+147:(Kakegurui Op)【ENGLISH COVER】 [b2NjgShVZ2A].wav
+148:【English cover】(Not) A Devil (デビルじゃないもん) feat. SOLARIA _ Eleanor Forte [lo9X58RawQ8].wav
+149:01 Broke Open Love.wav
+150:(Kakegurui Op)【ENGLISH COVER】 [b2NjgShVZ2A].wav
+151:【English cover】(Not) A Devil (デビルじゃないもん) feat. SOLARIA _ Eleanor Forte [lo9X58RawQ8].wav
+152:01 Broke Open Love.wav
+153:(Kakegurui Op)【ENGLISH COVER】 [b2NjgShVZ2A].wav
+154:【English cover】(Not) A Devil (デビルじゃないもん) feat. SOLARIA _ Eleanor Forte [lo9X58RawQ8].wav
+155:01 Broke Open Love.wav
+156:(Kakegurui Op)【ENGLISH COVER】 [b2NjgShVZ2A].wav
+157:【English cover】(Not) A Devil (デビルじゃないもん) feat. SOLARIA _ Eleanor Forte [lo9X58RawQ8].wav
+158:01 Broke Open Love.wav
+159:02 Suicides and Lazy Eyes.wav
+160:06 Possession.wav
+161:Aishite Aishite Aishite -Rock Arrange- (English Cover) 「愛して愛して愛して」【Will Stetson x ReeK】 [T0kpGEE-isU].wav
+162:Animal - DECO＊27 ft. Hatsune Miku ｜ ENGLISH Cover 【rocchi】 [FgWBQOxVSiQ].wav
+163:Anthropophobia (English Cover) 【JubyPhonic】 アンスロポフォビア [vjmrPgUQaeU].wav
+164:Aurora [7pOFG7lw1r0].wav
+165:Bitter Choco Decoration ♡ English Cover【rachie】 ビターチョコデコレーション [6G7ilxWNG9o].wav
+166:Blue Moon - Derivakat ft. vGumiho [OFFICIAL M⧸V] [R_Eu1pRH7_0].wav
+167:Bug (English Cover)「バグ⧸ Project Sekai」【Will Stetson】 [ZRSJRvyxQxU].wav
+168:Deal With The Devil (feat. Tony Halliwell) [AXWIz5Vdv3M].wav
+169:DECO＊27 - 毒林檎 feat. 初音ミク [nUzjJ1mNRRQ].wav
+170:drop pop candy (English Cover) 【Kuraiinu + JubyPhonic】 [UwdiUeH1RdA]-1.wav
+171:Falling for the Villain [SZyLR6ZowG0].wav
+172:Gryffin _ salem ilese - Glitch In The Simulation (Official Visualizer) [xESXMz8bTK0].wav
+173:Venom (English Cover)【JubyPhonic】ベノム [1JG93nbIL8Y].wav
+174:(Kakegurui Op)【ENGLISH COVER】 [b2NjgShVZ2A].wav
+175:【English cover】(Not) A Devil (デビルじゃないもん) feat. SOLARIA _ Eleanor Forte [lo9X58RawQ8].wav
+176:01 Broke Open Love.wav
+177:02 Suicides and Lazy Eyes.wav
+178:06 Possession.wav
+179:Aishite Aishite Aishite -Rock Arrange- (English Cover) 「愛して愛して愛して」【Will Stetson x ReeK】 [T0kpGEE-isU].wav
+180:Animal - DECO＊27 ft. Hatsune Miku ｜ ENGLISH Cover 【rocchi】 [FgWBQOxVSiQ].wav
+181:Anthropophobia (English Cover) 【JubyPhonic】 アンスロポフォビア [vjmrPgUQaeU].wav
+182:Aurora [7pOFG7lw1r0].wav
+183:Bitter Choco Decoration ♡ English Cover【rachie】 ビターチョコデコレーション [6G7ilxWNG9o].wav
+184:Blue Moon - Derivakat ft. vGumiho [OFFICIAL M⧸V] [R_Eu1pRH7_0].wav
+185:Bug (English Cover)「バグ⧸ Project Sekai」【Will Stetson】 [ZRSJRvyxQxU].wav
+186:Deal With The Devil (feat. Tony Halliwell) [AXWIz5Vdv3M].wav
+187:DECO＊27 - 毒林檎 feat. 初音ミク [nUzjJ1mNRRQ].wav
+188:drop pop candy (English Cover) 【Kuraiinu + JubyPhonic】 [UwdiUeH1RdA]-1.wav
+189:Falling for the Villain [SZyLR6ZowG0].wav
+190:Gryffin _ salem ilese - Glitch In The Simulation (Official Visualizer) [xESXMz8bTK0].wav
+191:Venom (English Cover)【JubyPhonic】ベノム [1JG93nbIL8Y].wav
+playlist_end
