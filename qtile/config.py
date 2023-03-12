@@ -104,7 +104,7 @@ for i in groups:
     )
 
 layouts = [
-    layout.Columns(border_focus_stack=["#d75f5f", "#8f3d3d"], border_width=4),
+    layout.Columns(border_focus_stack=["#d75f5f", "#8f3d3d"], border_width=4, margin=8),
     layout.Max(),
     # Try more layouts by unleashing below layouts.
     # layout.Stack(num_stacks=2),
@@ -135,13 +135,23 @@ screens = [
 		),
                 widget.GroupBox(),
                 widget.Prompt(),
+                widget.WindowName(
+		    fontsize='15',
+		),
+		widget.TextBox(
+		    "Battery:",
+		    fontsize='15',
+		),
+		widget.Battery(
+		),
+		widget.TextBox(
+		    "Brightness:",
+		    fontsize='15',
+		),
 		widget.Backlight(
 		    fontsize='15',
 		    max_brightness_file='/sys/class/backlight/intel_backlight/max_brightness',
 		    brightness_file='/sys/class/backlight/intel_backlight/brightness',
-		),
-                widget.WindowName(
-		    fontsize='15',
 		),
                 widget.Chord(
                     chords_colors={
