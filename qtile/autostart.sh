@@ -1,3 +1,2 @@
-#!/bin/bash
-[ ! -s ~/.config/mpd/pid ] && mpd
-nitrogen --restore &
+#!/bin/sh
+cd ~/.mpd && mpd mpd.conf && nitrogen --restore

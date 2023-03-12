@@ -28,6 +28,13 @@ from libqtile import bar, layout, widget
 from libqtile.config import Click, Drag, Group, Key, Match, Screen
 from libqtile.lazy import lazy
 from libqtile.utils import guess_terminal
+from libqtile import hook
+from subprocess import Popen
+from os.path import expanduser 
+
+@hook.subscribe.startup_once
+def startup():
+    Popen(expanduser("~/.config/qtile/autostart.sh"))
 
 mod = "mod4"
 terminal = "alacritty"
@@ -104,7 +111,7 @@ for i in groups:
     )
 
 layouts = [
-    layout.Columns(border_focus_stack=["#d75f5f", "#8f3d3d"], border_width=4, margin=8),
+    layout.Columns(border_focus="804782", bordr_normal="000000", border_width=4, margin=8),
     layout.Max(),
     # Try more layouts by unleashing below layouts.
     # layout.Stack(num_stacks=2),
@@ -120,7 +127,7 @@ layouts = [
 ]
 
 widget_defaults = dict(
-    font="sans",
+    font="Ubuntu",
     fontsize=12,
     padding=3,
 )
@@ -133,7 +140,7 @@ screens = [
                 widget.CurrentLayout(
 		    fontsize='15',
 		),
-                widget.GroupBox(),
+                widget.GroupBox(highlight_method='block'),
                 widget.Prompt(),
                 widget.WindowName(
 		    fontsize='15',
